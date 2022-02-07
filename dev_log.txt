@@ -1,0 +1,13 @@
+Ajout des animations du joueur
+
+Ajout des animation des pieces
+
+Changement du syst§me de gestion des peice (génératrion d'une valeur de la piece entre 1 et 3
+
+mise en place des pierres
+
+mise en place des portes (non fonctionelles)
+
+Creation des 10 premières maps
+
+https://evgeniy-luch.itch.io/free-rpg-16x16-item-pack
